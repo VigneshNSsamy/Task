@@ -1,0 +1,5 @@
+GET http://localhost:8005
+
+
+GET http://localhost:8005/protected
+Authorization: Bearer 
